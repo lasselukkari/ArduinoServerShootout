@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArduinoServerShootout/static/css/main.5c652370.chunk.css",
+    "main.js": "/ArduinoServerShootout/static/js/main.3565ad3a.chunk.js",
+    "main.js.map": "/ArduinoServerShootout/static/js/main.3565ad3a.chunk.js.map",
+    "runtime-main.js": "/ArduinoServerShootout/static/js/runtime-main.f181135c.js",
+    "runtime-main.js.map": "/ArduinoServerShootout/static/js/runtime-main.f181135c.js.map",
+    "static/js/2.4fcfdfab.chunk.js": "/ArduinoServerShootout/static/js/2.4fcfdfab.chunk.js",
+    "static/js/2.4fcfdfab.chunk.js.map": "/ArduinoServerShootout/static/js/2.4fcfdfab.chunk.js.map",
+    "index.html": "/ArduinoServerShootout/index.html",
+    "precache-manifest.060a9b23ea3a82cb4f8a0c16074e17d0.js": "/ArduinoServerShootout/precache-manifest.060a9b23ea3a82cb4f8a0c16074e17d0.js",
+    "service-worker.js": "/ArduinoServerShootout/service-worker.js",
+    "static/css/main.5c652370.chunk.css.map": "/ArduinoServerShootout/static/css/main.5c652370.chunk.css.map",
+    "static/js/2.4fcfdfab.chunk.js.LICENSE": "/ArduinoServerShootout/static/js/2.4fcfdfab.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f181135c.js",
+    "static/js/2.4fcfdfab.chunk.js",
+    "static/css/main.5c652370.chunk.css",
+    "static/js/main.3565ad3a.chunk.js"
+  ]
+}
