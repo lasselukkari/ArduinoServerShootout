@@ -76,7 +76,7 @@ void setup(void) {
   }
   Serial.println(WiFi.localIP());
 
-  server.on("fourB", handleFourB);
+  server.on("/fourB", handleFourB);
   server.on("/fourKB", handleFourKb);
   server.on("/fourKBloop", handleFourKbLoop);
   server.begin();
