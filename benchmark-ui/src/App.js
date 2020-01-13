@@ -33,15 +33,15 @@ const tests = [
   },
   {
     connections: 1,
-    name: "4B * 100",
+    name: "400 * 10B ",
   },
   {
     connections: 2,
-    name: "4B * 100",
+    name: "400 * 10B ",
   },
   {
     connections: 8,
-    name: "4B * 100",
+    name: "400 * 10B ",
   },
 ]
 
