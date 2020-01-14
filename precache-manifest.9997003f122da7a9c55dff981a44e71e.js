@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bda83ae2c6ad7ddb1ae41a6f3dbb8060",
+    "revision": "98699df02bc883a2ef7e3d2daee6451b",
     "url": "/ArduinoServerShootout/index.html"
   },
   {
-    "revision": "a48943ad50f1840206e4",
+    "revision": "d5ae06358c97848754c4",
     "url": "/ArduinoServerShootout/static/css/main.5c652370.chunk.css"
   },
   {
-    "revision": "2600c3fc5bbfa551f52f",
-    "url": "/ArduinoServerShootout/static/js/2.4fcfdfab.chunk.js"
+    "revision": "6626f0fb52fbed0dd34d",
+    "url": "/ArduinoServerShootout/static/js/2.e495e923.chunk.js"
   },
   {
     "revision": "efe80d506e138c343a03a1541511a2f3",
-    "url": "/ArduinoServerShootout/static/js/2.4fcfdfab.chunk.js.LICENSE"
+    "url": "/ArduinoServerShootout/static/js/2.e495e923.chunk.js.LICENSE"
   },
   {
-    "revision": "a48943ad50f1840206e4",
-    "url": "/ArduinoServerShootout/static/js/main.3565ad3a.chunk.js"
+    "revision": "d5ae06358c97848754c4",
+    "url": "/ArduinoServerShootout/static/js/main.bfebe627.chunk.js"
   },
   {
     "revision": "7c038879ab1d3b499a09",
