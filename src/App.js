@@ -75,7 +75,7 @@ function getCharts(tests) {
 function App() {
   return (
     <div className="App">
-      <h1>Arduino HTTP Sever Shootout</h1>
+      <h1>Arduino HTTP Server Shootout</h1>
       <p>An attempt to measure the write performance of three different Arduino web server frameworks.</p>
       <p>Source code for the backends, test script and visualization are available at <a href="https://github.com/lasselukkari/ArduinoServerShootout">github.</a> </p>
       <h2>Backends</h2>
