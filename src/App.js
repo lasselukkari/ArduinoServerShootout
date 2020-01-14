@@ -51,7 +51,7 @@ function getChart(test, i) {
   const data = servers.map((name) => ({ name, 'Requests per sec': results[name][i].requestsPerSec }));
 
   return <div>
-    <h2>{test.name} payload {test.connections} connections</h2>
+    <h2>{test.name} body, {test.connections} connections</h2>
     <BarChart
       width={500}
       height={300}
@@ -108,7 +108,7 @@ function App() {
         </li>
       </ul>
       <h2>Disclaimer</h2>
-      <p>This benchmark compares apples to oranges. AsyncWebServer processes requests in parallel.</p>
+      <p>This benchmark compares apples to oranges.</p>
       <p>Each benchmark was run once for 10 seconds.</p>
       {getCharts(tests)}
     </div>
