@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ArduinoServerShootout/precache-manifest.9997003f122da7a9c55dff981a44e71e.js"
+  "/ArduinoServerShootout/precache-manifest.28d557c2ee5ecb1a6bc3057a32816d4e.js"
 );
 
 self.addEventListener('message', (event) => {

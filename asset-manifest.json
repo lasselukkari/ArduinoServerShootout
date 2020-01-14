@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ArduinoServerShootout/static/css/main.5c652370.chunk.css",
-    "main.js": "/ArduinoServerShootout/static/js/main.bfebe627.chunk.js",
-    "main.js.map": "/ArduinoServerShootout/static/js/main.bfebe627.chunk.js.map",
-    "runtime-main.js": "/ArduinoServerShootout/static/js/runtime-main.f181135c.js",
-    "runtime-main.js.map": "/ArduinoServerShootout/static/js/runtime-main.f181135c.js.map",
-    "static/js/2.e495e923.chunk.js": "/ArduinoServerShootout/static/js/2.e495e923.chunk.js",
-    "static/js/2.e495e923.chunk.js.map": "/ArduinoServerShootout/static/js/2.e495e923.chunk.js.map",
+    "main.js": "/ArduinoServerShootout/static/js/main.e14f1715.chunk.js",
+    "main.js.map": "/ArduinoServerShootout/static/js/main.e14f1715.chunk.js.map",
+    "runtime-main.js": "/ArduinoServerShootout/static/js/runtime-main.2f72acf0.js",
+    "runtime-main.js.map": "/ArduinoServerShootout/static/js/runtime-main.2f72acf0.js.map",
+    "static/js/2.4f23bfd4.chunk.js": "/ArduinoServerShootout/static/js/2.4f23bfd4.chunk.js",
+    "static/js/2.4f23bfd4.chunk.js.map": "/ArduinoServerShootout/static/js/2.4f23bfd4.chunk.js.map",
     "index.html": "/ArduinoServerShootout/index.html",
-    "precache-manifest.9997003f122da7a9c55dff981a44e71e.js": "/ArduinoServerShootout/precache-manifest.9997003f122da7a9c55dff981a44e71e.js",
+    "precache-manifest.28d557c2ee5ecb1a6bc3057a32816d4e.js": "/ArduinoServerShootout/precache-manifest.28d557c2ee5ecb1a6bc3057a32816d4e.js",
     "service-worker.js": "/ArduinoServerShootout/service-worker.js",
     "static/css/main.5c652370.chunk.css.map": "/ArduinoServerShootout/static/css/main.5c652370.chunk.css.map",
-    "static/js/2.e495e923.chunk.js.LICENSE": "/ArduinoServerShootout/static/js/2.e495e923.chunk.js.LICENSE"
+    "static/js/2.4f23bfd4.chunk.js.LICENSE": "/ArduinoServerShootout/static/js/2.4f23bfd4.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.f181135c.js",
-    "static/js/2.e495e923.chunk.js",
+    "static/js/runtime-main.2f72acf0.js",
+    "static/js/2.4f23bfd4.chunk.js",
     "static/css/main.5c652370.chunk.css",
-    "static/js/main.bfebe627.chunk.js"
+    "static/js/main.e14f1715.chunk.js"
   ]
 }
